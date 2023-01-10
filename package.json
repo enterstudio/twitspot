@@ -30,12 +30,12 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "debug": "~2.2.0",
+    "debug": "~3.1.0",
     "fluent-ffmpeg": "~2.1.0",
     "node-spotify": "https://github.com/FrontierPsychiatrist/node-spotify/archive/master.tar.gz",
     "prompt": "~1.0.0",
     "request": "~2.72.0",
-    "speaker": "~0.3.0",
+    "speaker": "~0.4.0",
     "tidalapi": "~0.2.2",
     "twit": "~2.2.4",
     "wav": "~1.0.0"
